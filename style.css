@@ -25,27 +25,27 @@ main h2 {
 }
 
 /* Add Student Styles Below */
-.jane-style {
-    color: hotpink;
+.ashley-style {
+    color: rgb(43, 40, 40);
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
-    background-color: lightblue;
+    color: rgb(0, 0, 0);
+    background-color: rgb(224, 45, 45);
     padding: 3px;
 }
 
 .codys-styles {
-    background:rgb(92, 149, 235);
+    background:rgb(13, 52, 15);
 }
 
 .stans-styles {
-    background-color:lightgray;
+    background-color:rgb(133, 118, 118);
 }
 
 .my-bio {
-    background-color: green;
+    background-color: rgb(35, 11, 55);
     color: white;
 }
